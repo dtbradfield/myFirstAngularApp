@@ -1,3 +1,6 @@
+I followed along with a tutorial video to orient myself with the basic functionality of Angular and to get my feet wet. Will revisit in the future to make unique. 01/22/2019
+
+
 # Ng7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.2.
